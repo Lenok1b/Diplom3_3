@@ -1,0 +1,11 @@
+constants\Endpoints.class
+json\LoginCard.class
+clientapi\BaseClient.class
+clientapi\PostApi.class
+org\example\Main.class
+clientapi\GetApi.class
+json\RegistrationCard.class
+pageobjects\RandoIndex.class
+GetBrowser.class
+clientapi\DeleteApi.class
+constants\URL.class
